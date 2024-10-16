@@ -81,7 +81,7 @@ add(45,6)*/
             codigoPostal: "85666"
         },
         amigos: ['Raul', 'Maria Juana'],
-        usuario: "PablitoClavito",
+        usuario: "chaix esta enamorado de lu",
         correo : "pablo.frias.castro@gmail.com",
         activo: true
     }
